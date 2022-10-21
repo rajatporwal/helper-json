@@ -98,7 +98,7 @@
         "id": "react/react-debounce-throttle",
         "description": "",
         "list": null,
-        "embededUrl": "https://codesandbox.io/embed/debounce-and-throttle-zw2y5k?fontsize=14&hidenavigation=1&theme=light",
+        "embededUrl": "https://codesandbox.io/embed/debounce-and-throttle-zw2y5k?fontsize=14&hidenavigation=1&theme=dark",
         "note": null
       }
     ]
