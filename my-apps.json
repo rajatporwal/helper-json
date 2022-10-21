@@ -91,6 +91,15 @@
         "list": null,
         "embededUrl": "//jsfiddle.net/rajatporwal/s5xhezf4/3/embedded/result,js,html,css/dark/",
         "note": null
+      },
+      {
+        "title": "Debounce and Throttling React",
+        "keywords": "debounce throttling react",
+        "id": "react/react-debounce-throttle",
+        "description": "",
+        "list": null,
+        "embededUrl": "https://codesandbox.io/embed/debounce-and-throttle-zw2y5k?fontsize=14&hidenavigation=1&theme=light",
+        "note": null
       }
     ]
   },
