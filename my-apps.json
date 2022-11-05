@@ -125,6 +125,15 @@
         "list": null,
         "embededUrl": "https://codepen.io/porwalrajat/embed/jOKbMJB?default-tab=html%2Cresult&theme-id=dark",
         "note": null
+      },
+      {
+        "title": "Call, Apply and Bind in app",
+        "keywords": "Call, Apply and Bind",
+        "id": "javascript/call_apply_bind",
+        "description": "",
+        "list": null,
+        "embededUrl": "https://codepen.io/porwalrajat/embed/rNKMaEx?default-tab=html%2Cresult&theme-id=dark",
+        "note": null
       }
     ]
   }
